@@ -3,6 +3,8 @@ iEEWはiosショートカット専用のオープンソース緊急地震速報�
 apiはwolfxを使用しています。
 緊急地震速報(予報)に対応しています。
 
+[最新リリースはこちら](https://github.com/Ikaring45/ProjectiEEW/releases)
+
 **Images**
 
 通常報時
