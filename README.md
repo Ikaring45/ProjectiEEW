@@ -6,7 +6,7 @@ apiはwolfxを使用しています。
 
 **現状単独予報4、警報には対応していません！！**
 
-*[最新リリースはこちら](https://github.com/Ikaring45/ProjectiEEW/releases)*
+>*[最新リリースはこちら](https://github.com/Ikaring45/ProjectiEEW/releases)*
 
 zipファイルをダウンロードして解凍し、iEEW0.0.shortcutを選択してインストールしてください。
 
