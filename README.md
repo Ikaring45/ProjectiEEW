@@ -4,6 +4,7 @@ apiはwolfxを使用しています。
 緊急地震速報(予報)に対応しています。
 
 [最新リリースはこちら](https://github.com/Ikaring45/ProjectiEEW/releases)
+zipファイルをダウンロードして解凍し、iEEW?.?.shortcutを選択してインストールしてください。
 
 **Images**
 
