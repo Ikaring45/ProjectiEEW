@@ -1,1 +1,2 @@
-# iEEW.github.io
+# iEEW
+iEEWはオープンソースの緊急地震速報受信プログラムです。
