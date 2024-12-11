@@ -21,7 +21,7 @@ zipファイルをダウンロードして解凍し、iEEW0.0.shortcutを選択�
 
 震源を表示　　　　　　　　　　　(*震源地*)
 
->深さを表示　　　　　　　　　　　(*深さ*)
+深さを表示　　　　　　　　　　　(*深さ*)
 # Images
 通常報時
 ![img1](https://github.com/Ikaring45/iEEW/blob/main/iEEWsindo3.jpg)
