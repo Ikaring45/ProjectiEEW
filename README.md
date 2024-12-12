@@ -25,6 +25,16 @@ zipファイルをダウンロードして解凍し、iEEW0.0.shortcutを選択�
 | 震源を表示 | 震源地 |
 | 深さを表示 | 深さ |
 
+## 対応OS
+| OS | 対応しているか |
+| ------------- | ------------- |
+| iOS18 | 〇 |
+| iOS17 | 〇 |
+| iOS16 | ◎(開発環境)|
+| iOS14 | △ |
+| iOS13 | × |
+| iOS12 | × |
+
 ## Images
 通常報時
 ![img1](https://github.com/Ikaring45/iEEW/blob/main/iEEWsindo3.jpg)
