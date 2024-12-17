@@ -38,4 +38,4 @@ zipファイルをダウンロードして解凍し、iEEW0.0.shortcutを選択�
 通常報時
 ![img1](https://github.com/Ikaring45/iEEW/blob/main/iEEWsindo3.jpg)
 震度4時
-![img1](https://github.com/Ikaring45/iEEW/blob/main/iEEWshindo410.0.jpeg)
+![img1](https://github.com/Ikaring45/ProjectiEEW/blob/main/iEEWshindo4%2010.0.jpeg)
