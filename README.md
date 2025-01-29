@@ -37,6 +37,10 @@ zipファイルをダウンロードして解凍し、iEEW0.0.shortcutを選択�
 | iOS13 | × |
 | iOS12 | × |
 
+## 既知の問題
+電池消費が多すぎます！
+リクエストがタイムアウトします！
+
 ## Images
 通常報時
 ![img1](https://github.com/Ikaring45/iEEW/blob/main/iEEWsindo3.jpg)
