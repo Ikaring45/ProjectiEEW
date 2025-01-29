@@ -2,6 +2,8 @@
 
 ***This project is an unofficial project that is not affiliated with WolfxProject or any related projects.***
 
+***该项目是一个非官方项目，与WolfxProject或任何相关项目无关。***
+
 Project iEEWは、ipadでappインストール不要の緊急地震速報受信プログラムの作成を目指しています。<br>
 iEEWはiOSショートカット専用のオープンソース緊急地震速報受信プログラムです。
 apiはwolfxを使用しています。<br>
