@@ -13,7 +13,7 @@ apiはwolfx-jma-eewを使用しています。<br>
 **1時間に一回再起動してください**<br>
 
 >*[最新リリースはこちら](https://github.com/Ikaring45/ProjectiEEW/releases)*<br>
->*[wikiも読んでね](https://github.com/Ikaring45/ProjectiEEW.wiki.git)*
+>*[wikiも読んでね](https://github.com/Ikaring45/ProjectiEEW.wiki)*
 
 zipファイルをダウンロードして解凍し、iEEW0.0.shortcutを選択してインストールしてください。
 
