@@ -12,7 +12,8 @@ apiはwolfx-jma-eewを使用しています。<br>
 **サーバーに過度な負担をかけるようなバグが含まれている可能性があるので、常に最新リリースを使うようにしてください。**<br>
 **1時間に一回再起動してください**<br>
 
->*[最新リリースはこちら](https://github.com/Ikaring45/ProjectiEEW/releases)*
+>*[最新リリースはこちら](https://github.com/Ikaring45/ProjectiEEW/releases)*<br>
+>*[wikiも読んでね](https://github.com/Ikaring45/ProjectiEEW.wiki.git)*
 
 zipファイルをダウンロードして解凍し、iEEW0.0.shortcutを選択してインストールしてください。
 
