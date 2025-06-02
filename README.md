@@ -15,7 +15,7 @@ VXSE45、VXSE43、VXSE51、VXSE53に対応しています。<br>
 >*[最新リリースはこちら](https://github.com/Ikaring45/ProjectiEEW/releases)*<br>
 >*[wikiも読んでね](https://github.com/Ikaring45/ProjectiEEW/wiki)*
 
-zipファイルをダウンロードして解凍し、iEEW0.0.shortcutを選択してインストールしてください。
+zipファイルをダウンロードして解凍し、iEEW0.0+.shortcutを選択してインストールしてください。
 
 近日公開！公式discordサーバー。Discord限定のショートカットも配布予定。
 
